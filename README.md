@@ -1,3 +1,8 @@
 # Hola, saludos, mi nombre es José 
 
-Me dedico a la programación y ciberseguridad. Enfocado en mis proyectos, creación de aplicaciones y más. 👨🏼‍💻✨
+> [!NOTE]
+> Me dedico a la programación y ciberseguridad. Enfocado en mis proyectos, creación de aplicaciones y más. 👨🏼‍💻✨
+
+## Lenguajes
+
+![HTML](https://example.com)
