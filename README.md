@@ -5,4 +5,4 @@
 
 ## Lenguajes
 
-<span style="color: #ff0000;">HTML</span>
+> <p><span style="color: #ff0000;">HTML</span>, <span style="color: #0000ff;">CSS</span>, <span>JS</span>, <span>MySQL</span>, <span>C</span> y<span>C++</span>
