@@ -5,4 +5,4 @@
 
 ## Lenguajes
 
-![HTML](color=#ff0000)
+![HTML]()
