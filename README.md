@@ -5,4 +5,4 @@
 
 ## Lenguajes
 
-<span style="#ff0000">HTML</span
+<span style="color: #ff0000;">HTML</span>
